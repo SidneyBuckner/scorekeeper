@@ -5,15 +5,15 @@
 
 Welcome to my Score Keeper! An application for implementing JavaScript with HTML and CSS.
 This small application can be used for keeping score of simple games! You have access up to two players
-and their score count at the top. You can choose how many round to go up to and the first to reach the
+and their score count at the top. You then choose how many rounds to go to. The first to reach the
 preferred score, wins!
 
 ##### Features:
 
-+ Two players and their Scores nestled at the top of the page
++ Two players and their scores nestled at the top of the page
 + You can program how many games to go to, using the input box
-+ Check the Player's box for whomever won points and this will display at the top
-+ You may reset the amount of points needed to win the game at anytime, which will prompt the app to start over at 0 to 0
++ Check the player's box for whomever won points and this will display at the top
++ You may reset the amount of points needed to win the game at anytime, which will prompt the app to start over at 0 
 + You may also reset the whole app using the reset button
 
 ---
