@@ -4,7 +4,7 @@
 ---
 
 Welcome to my Score Keeper! An application for implementing JavaScript with HTML and CSS.
-This small application can be used for keeping score of simple games! You have access to two players
+This small application can be used for keeping score of simple games! You have access up to two players
 and their score count at the top. You can choose how many round to go up to and the first to reach the
 preferred score, wins!
 
